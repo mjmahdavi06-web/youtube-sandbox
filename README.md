@@ -19,7 +19,7 @@
 یوتیوب ربات‌ها رو تشخیص می‌ده، برای همین باید خودمون رو مثل یه کاربر واقعی نشون بدیم.
 
 **مراحل:**
-
+ 
 1. توی مرورگر (ترجیحاً **حالت ناشناس**) با حسابت وارد یوتیوب شو.
 2. افزونه **[Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc)** رو نصب کن.
 3. روی آیکون افزونه کلیک کن و **Export** رو بزن تا فایل `cookies.txt` دانلود بشه.
