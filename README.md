@@ -66,7 +66,7 @@ yt-dlp: https://www.youtube.com/watch?v=6qFeURAfItU
 | بهترین کیفیت    | `yt-dlp: https://youtu.be/6qFeURAfItU`                                              |
 | کیفیت خاص       | `yt-dlp: https://youtu.be/6qFeURAfItU quality: 1080`                                |
 | فقط صدا (MP3)   | `yt-dlp: https://youtu.be/6qFeURAfItU audio-only: true`                             |
-| دانلود پلی‌لیست | `yt-dlp: https://youtube.com/playlist?list=... playlist: true`                      |
+| دانلود پلی‌لیست |  `yt-dlp: https://youtube.com/playlist?list=... playlist: true`                      |
 | ترکیب گزینه‌ها  | `yt-dlp: https://youtu.be/EXAMPLE quality: 720 subtitles: true sponsorblock: false` |
 
 <br>
